@@ -19,7 +19,7 @@ The BRC20-E protocol extends the original BRC20 functionality by adding the foll
     "tick": "ordi",
     "amt": "100",
     "e":"BNSX-1",//extend:BNSX-1 protocol
-    "d":"Cgh3ZWRlZGV3dxIDAQIDGAAiBQECAwQF"/data:base64 encoded data
+    "d":"Cgh3ZWRlZGV3dxIDAQIDGAAiBQECAwQF"//data:base64 encoded data
 }
 ```
 
