@@ -30,7 +30,7 @@ Goals:
 - Uniformity of extending the protocol: All indexers should be able to decode BRC20-E JSON directly from the chain and understand its meaning.
 - Continuity of extending the protocol: Allow third parties to deploy and propose their own extensions to enrich the BTC-L1 ecosystem or upgrade their protocols.
 - Immutability of extending the protocol: Once a consensus is reached on the extension protocol, it is deployed on the BTC network, and the extension protocol is permanently stored and immutable.
-- Minimize data addition to the original protocol: The extension protocol should add as little data as possible to the original protocol to minimize expenses for the BTC network, maximizing user gas fee savings.
+- Minimize data addition to the original protocol: The extension protocol aims to add minimal data to the original protocol to minimize expenses for the BTC network, maximizing user gas fee savings.
 
 #### BRC20-E Protocol Design Specification
 ##### About the "e" field:
