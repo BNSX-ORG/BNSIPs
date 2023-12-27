@@ -112,7 +112,7 @@ Delivery of a BRC20-E protocol registry center to assist users in submitting new
 
 ## Future Plans (optional)
 
-- BRC20-E currently focuses on extending the parsing functionality of off-chain indexers. It provides a strong extension design for users and the community to guide indexers in achieving more powerful functionalities. Whether further extension into off-chain VM consensus is needed is a topic for discussion in the future.
+- BRC20-E currently focuses on extending the parsing functionality of off-chain indexers. It provides a strong extension design for users and the community to guide indexers in achieving more powerful functionalities. Whether further extension into off-chain VM consensus is needed is a topic for discussion in the future. New BNSIps would dress this issue.
 
 ## Members
 - Leader:Chef of BNSx Team
