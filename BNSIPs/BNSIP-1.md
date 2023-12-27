@@ -1,4 +1,4 @@
-# BNSIP-1: BRC20-E Proposal(BRC20 Extend Proposal)
+# BNSIP-1: BRC20-E Proposal(BRC20 Extension Proposal)
 ## Proposal Overview
 
 ### Overview
