@@ -40,7 +40,7 @@ Goals:
 {
     "p":"brc-20-e",//extend brc20
     "op":"reg",//operation:register
-    “doc”:"http://docs.bnsx.org",//Protocol detailed introduction document
+    "doc":"http://docs.bnsx.org",//Protocol detailed introduction document
     "n":"bnsx-1",//name:bnsx-1
     "d":"c3ludGF4ID0gInByb3RvMyI7Cm1lc3NhZ2UgZXhhbXBsZU1lc3NhZ2UKewogIHN0cmluZyBleGFtcGxlU3RyaW5nID0gMTsKICBieXRlcyBleGFtcGxlQnl0ZXMgPSAyOwogIHVpbnQzMiBleGFtcGxlSW50ID0gMzsKICByZXBlYXRlZCB1aW50MzIgcmVwZWF0ZWRJbnQgPSA0Owp9Cg=="//data:base64 encoded data
 }
