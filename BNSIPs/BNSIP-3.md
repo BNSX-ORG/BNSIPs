@@ -29,10 +29,15 @@ Assuming Alice has completed the claiming process described in BNSIP-2, the off-
 Under the aforementioned conditions, Alice can at any time in the future, use the address "bc1qkgvskxwj7f03huef6pw3jklcmuwprv0sa5yfw7" on the BTC network to inscribe the following data as a representation of ownership for the "alice" DID which would be NFT converted.
 ```
 { 
-    "p": "BNSx-3",
-    "did": "alice",
-    "regTx":"4a15ce9cec0b4b34f08eae0d8484a02e344c36b99ce4aec2919290262afdc5fb"
-}
+     "p": "BNSx",
+     "e":"BNSx-2",
+     "d":{
+         "op": "OP_REG",
+         "addr": "bc1qkgvskxwj7f03huef6pw3jklcmuwprv0sa5yfw7",
+         "did": "alice",
+         "relatedTx":"4a15ce9cec0b4b34f08eae0d8484a02e344c36b99ce4aec2919290262afdc5fb"
+     }
+ }
 ```
 #### Indexer Consensus Rules
 1. The Indexer needs to verify the validity of the DID, as detailed in BNSIP-2.
